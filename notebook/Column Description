@@ -1,0 +1,21 @@
+Country: Name of the country data is pulled for
+Year: The year data was collected
+Life Expectancy: Average number of years a newborn child is expected to live.
+Adult Mortality: Mortality rate of adults (15-59 years old)
+Infant deaths: Number of deaths of children under one year old per 1,000 live births
+Alcohol: Alcohol consumption per capita (liters of pure alcohol)
+Percentage expenditure: Percentage of GDP spent on health
+Hepatitis B: Percentage of 1-year-olds vaccinated against Hepatitis B.
+Measles: Number of measles cases per 1 million population
+BMI: Average Body Mass Index of the population
+Under-five deaths: Number of deaths of children under five years old per 1,000 live births
+Polio: Percentage of 1-year-olds vaccinated against Polio
+Total expenditure: Total expenditure of health per capita
+Diptheria: Percentage of 1-year-olds vaccinated against Diptheria
+HIV/AIDS: Prevalence of HIV/AIDS among adults (15-49)
+GDP: Gross Domestic Product per capita
+Population: Population of the country
+Thinness 1-19 years: Percentage of population aged 1-19 years who are underweight
+Thinness 5-9 years: Percentage of population aged 5-9 years who are underweight
+Income composition of resources: A measure of income inequality
+Schooling: Average number of years of schooling
