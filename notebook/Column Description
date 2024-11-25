@@ -1,5 +1,6 @@
 Country: Name of the country data is pulled for
 Year: The year data was collected
+Status: Shows if country is developed or developing
 Life Expectancy: Average number of years a newborn child is expected to live.
 Adult Mortality: Mortality rate of adults (15-59 years old)
 Infant deaths: Number of deaths of children under one year old per 1,000 live births
